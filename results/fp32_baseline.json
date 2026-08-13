@@ -1,0 +1,16 @@
+{
+  "overall": {
+    "mAP_0.5:0.95": 0.425,
+    "mAP_0.5": 0.62,
+    "AP_small": 0.201,
+    "AP_medium": 0.581,
+    "AP_large": 0.704
+  },
+  "per_class_AP": {
+    "person": 0.521,
+    "bicycle": 0.34,
+    "car": 0.408,
+    "traffic light": 0.209,
+    "stop sign": 0.648
+  }
+}
