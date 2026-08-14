@@ -1,0 +1,27 @@
+
+# COCO data
+data/
+val2017/
+*.zip
+
+# Generated annotations
+annotations/
+
+# Model files
+*.pt
+*.onnx
+*.xml
+*.bin
+
+# Generated predictions
+*_predictions.json
+
+# Experiment outputs
+runs/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
