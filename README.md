@@ -35,7 +35,8 @@ gap widen under degraded conditions, or not — and why?**
 
 ```
 ├── .gitignore                 
-├── INT8_Detection_Under_Degradation.ipynb   
+├── INT8_Detection_Under_Degradation.ipynb
+├── INT8_Detection_Under_Degradation_Report.pdf 
 └── README.md
 ```
 
