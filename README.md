@@ -135,9 +135,6 @@ pip install ultralytics openvino nncf pycocotools
    (`image_files`, `coco_gt`, `image_id_map`, saved `.xml`/`.bin` models, etc.).
 3. Expected runtime: ~15–20 min on Colab CPU.
 
-> Large/generated files (images, models, predictions) are gitignored. Re-running the notebook
-> regenerates everything from scratch.
-
 
 ## Author
 **Sandhiya Jeganathan** — built as a trial task exercise.
