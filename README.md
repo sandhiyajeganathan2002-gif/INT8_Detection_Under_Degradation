@@ -140,5 +140,19 @@ pip install ultralytics openvino nncf pycocotools
 
 
 ## Author
+**Sandhiya Jeganathan** — built as a trial task exercise.
 
-[Your name] — built as a trial task exercise.
+Open to **Deep learning Intern**/**Data Science Intern** / **Junior Data Scientist** / **AI-ML Engineer** roles
+
+📍 Bengaluru, India
+
+- 🔗 LinkedIn: https://www.linkedin.com/in/sandhiyajegan
+- 📧 Email: sandhiyajeganathan2002@gmail.com
+- 💻 GitHub: https://github.com/sandhiyajeganathan2002-gif
+
+---
+
+<div align="center">
+If you found this project useful, consider giving it a ⭐
+</div>
+
